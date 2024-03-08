@@ -19,3 +19,6 @@ git add README.txt => 스테이지에 올릴 파일
 5) README.txt 파일을 수정 후 저장
 6) 두번째 커밋을 만듦
 * 반복
+
+push 하기
+git push origin master => master로 push
